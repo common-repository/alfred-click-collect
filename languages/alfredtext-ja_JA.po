@@ -1,0 +1,128 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: alfredtext\n"
+"POT-Creation-Date: 2020-10-06 14:08+0500\n"
+"PO-Revision-Date: 2020-10-06 14:44+0500\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.4.1\n"
+"X-Poedit-Basepath: ../pages\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: _e\n"
+"X-Poedit-SearchPath-0: settings-admin-page.php\n"
+
+#: settings-admin-page.php:370
+msgid "Account"
+msgstr "アカウント"
+
+#: settings-admin-page.php:371
+msgid "Setting"
+msgstr "設定"
+
+#: settings-admin-page.php:372
+msgid "Shipping Rates"
+msgstr "配送料金"
+
+#: settings-admin-page.php:373
+msgid "Languages"
+msgstr "言語"
+
+#: settings-admin-page.php:374
+msgid "Shipment Error"
+msgstr "出荷エラー"
+
+#: settings-admin-page.php:381
+msgid "Thank you for choosing alfred24."
+msgstr "アルフレッドをお選びいただきありがとうございます."
+
+#: settings-admin-page.php:382
+msgid "Enable the Click & Collect service with 2 simple steps:"
+msgstr "2つの簡単な手順でクリックアンドコレクトサービスを有効にする:"
+
+#: settings-admin-page.php:384
+msgid ""
+"Create your account on <a href=\"https://alfred.delivery/merchant-signup/"
+"\">alfred24</a>"
+msgstr ""
+"<a href = \"https://alfred.delivery/merchant-signup/\">アルフレッド</a>で"
+"アカウントを作成します"
+
+#: settings-admin-page.php:385
+msgid "Login beneath with your username and password"
+msgstr "ユーザー名とパスワードを使用して下にログインします"
+
+#: settings-admin-page.php:387
+msgid ""
+"You can check the order status <a href=\"https://alfredhk.pakpobox.com/#/"
+"page/login\">here</a>"
+msgstr ""
+"注文状況は <a href = \"https://alfredhk.pakpobox.com/#/page/login\">こち"
+"ら</a>で確認できます"
+
+#: settings-admin-page.php:392
+msgid "Country"
+msgstr "国"
+
+#: settings-admin-page.php:395
+msgid "Hong Kong"
+msgstr "Hong Kong"
+
+#: settings-admin-page.php:401
+msgid "Username"
+msgstr "ユーザー名"
+
+#: settings-admin-page.php:407
+msgid "Password"
+msgstr "パスワード"
+
+#: settings-admin-page.php:416
+msgid "Token"
+msgstr "トークン"
+
+#: settings-admin-page.php:429
+msgid "Status"
+msgstr "状態"
+
+#: settings-admin-page.php:432
+msgid "Disabled"
+msgstr "無効"
+
+#: settings-admin-page.php:438
+msgid "Heading"
+msgstr "見出し"
+
+#: settings-admin-page.php:451
+msgid "Default Tax Class"
+msgstr "デフォルトの税クラス"
+
+#: settings-admin-page.php:454
+msgid "(Highest Product Tax Rate)"
+msgstr "（最高の製品税率）"
+
+#: settings-admin-page.php:463
+msgid "alfred24 Locker"
+msgstr "alfred24 Locker"
+
+#: settings-admin-page.php:471
+msgid "alfred24 Point"
+msgstr "alfred24 Point"
+
+#: settings-admin-page.php:491
+msgid "English"
+msgstr "（英語）"
+
+#: settings-admin-page.php:597
+msgid "alfred24 Locker"
+msgstr "alfred24 Locker"
+
+#: settings-admin-page.php:714
+msgid "alfred24 Point"
+msgstr "alfred24 Point"
+
+#: settings-admin-page.php:853
+msgid "Cancel"
+msgstr "キャンセル"
